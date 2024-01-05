@@ -2,8 +2,8 @@
 <h3 align="center">A passionate FullStack developer from Sri Lanka</h3><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-<br><br>
-<br><br>
+
+
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-7&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-7" /> </p>
